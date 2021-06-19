@@ -70,4 +70,4 @@ MySQL Ver 15.1 Distrib 10.3.28-MariaDB
 Bootstrap v4  
 Linux distro: RHEL 8.4  
 
-<img src="../master/screenshots/portal-about.JPG" width="60%">
+<img src="../main/screenshots/portal-about.JPG" width="60%">
