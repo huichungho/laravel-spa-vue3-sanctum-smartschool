@@ -2,7 +2,6 @@
 
 ## features
 SPA with vueJS  
-RESTful CRUD  
 API Authentication using Laravel Sanctum  
 
 ## environment
